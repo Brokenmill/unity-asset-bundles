@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 543854193
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39ab187c6e202ab4bb6e79bdbb372d09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 687e69b670cde8559d26fe8b3eca4d21
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Activity1/Textures/lLfc09A.jpg
+- Assets/Activity1/Materials/mpHgYA0.mat
+- Assets/Activity1/Materials/board_material.mat
+- Assets/Activity1/Textures/HlmWDMU.jpg
+- Assets/Activity1/Materials/gUMHWvP.mat
+- Assets/Activity1/Textures/cjPnOhL.jpg
+- Assets/Activity1/Materials/cjPnOhL.mat
+- Assets/Activity1/Materials/JJE9YiY.mat
+- Assets/Activity1/Textures/2HZCGsX.jpg
+- Assets/Activity1/Materials/2HZCGsX.mat
+- Assets/Activity1/Materials/ball_material.mat
+- Assets/Activity1/Textures/VKTPd2M.jpg
+- Assets/Activity1/Textures/JJE9YiY.jpg
+- Assets/Activity1/Materials/C9UayiA.mat
+- Assets/Activity1/Materials/VKTPd2M.mat
+- Assets/Activity1/Materials/HlmWDMU.mat
+- Assets/Activity1/Materials/lLfc09A.mat
+- Assets/Activity1/Textures/mpHgYA0.jpg
+- Assets/Activity1/Textures/C9UayiA.jpg
+- Assets/Activity1/Textures/gUMHWvP.jpg
+Dependencies: []

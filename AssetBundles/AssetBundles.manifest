@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: activity1
+      Dependencies:
+        Dependency_0: activity1_assets
+    Info_1:
+      Name: activity1_assets
+      Dependencies: {}
